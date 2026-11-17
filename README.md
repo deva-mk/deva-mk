@@ -1,17 +1,17 @@
-# Hi there, I'm Devadharshini Sivakumar! 👋
+# Hi there, I'm Devadharshini Sivakumar! 
 
-## 🚀 AI Developer | Engineering Student | Problem Solver
+## AI Developer | Engineering Student | Problem Solver
 
 I am an AI Developer and Computer Science Engineering student at **V.S.B Engineering College, Karur**, passionate about building impactful solutions using **Artificial Intelligence, Machine Learning, Computer Vision, and Web Technologies**.
 
-* 💡 **Core Interests:** Artificial Intelligence, Smart Prediction Systems, Privacy-First Healthcare, and Gamified Education.
-* 🌱 **Founder of EthicaLearn** — An initiative focused on impactful and ethical learning.
-* 🎯 **Mission:** Building technology that creates meaningful impact.
-* ⚡ **Motto:** *Code. Learn. Impact.*
+*  **Core Interests:** Artificial Intelligence, Smart Prediction Systems, Privacy-First Healthcare, and Gamified Education.
+*  **Founder of EthicaLearn** — An initiative focused on impactful and ethical learning.
+*  **Mission:** Building technology that creates meaningful impact.
+*  **Motto:** *Code. Learn. Impact.*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 
@@ -47,29 +47,29 @@ I am an AI Developer and Computer Science Engineering student at **V.S.B Enginee
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 💧 AquaAlert / Aqua AI
+### AquaAlert / Aqua AI
 
 Offline-first hydration and health monitoring system featuring localized data storage, risk prediction, privacy-first healthcare support, multilingual capabilities, and gamified engagement features.
 
-### 👁️ VisionPro AI
+### VisionPro AI
 
 Real-time AI application for face emotion detection, hand gesture recognition, body pose estimation, and object detection using Computer Vision and OpenCV.
 
-### 🎓 Smart Student Performance Predictor
+### Smart Student Performance Predictor
 
 Machine learning system designed to analyze academic data and predict student performance using predictive analytics.
 
-### 👨‍💼 Employee Attrition Prediction System
+### Employee Attrition Prediction System
 
 AI-powered workforce analytics solution that predicts employee attrition and supports data-driven retention strategies.
 
-### 📰 Fake News Detection System
+### Fake News Detection System
 
 NLP-based misinformation detection system using TF-IDF vectorization and machine learning classification models.
 
-### 📧 E-mail Automation
+### E-mail Automation
 
 Automation workflows for email communication developed using Python and JavaScript technologies.
 
@@ -83,7 +83,7 @@ Automation workflows for email communication developed using Python and JavaScri
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 * Microsoft Learn AI Certification
 * Google AI Agents Certification
@@ -93,7 +93,7 @@ Automation workflows for email communication developed using Python and JavaScri
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 * LinkedIn: Devadharshini Sivakumar
 * YouTube: Code-Trinity
@@ -102,8 +102,8 @@ Automation workflows for email communication developed using Python and JavaScri
 
 ---
 
-## 💭 Quote
+## Quote
 
 *"Technology becomes meaningful when it creates impact in people's lives."*
 
-⭐ If you like my work, feel free to explore my repositories and connect with me.
+If you like my work, feel free to explore my repositories and connect with me.
