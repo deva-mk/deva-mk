@@ -1,109 +1,189 @@
-# Hi there, I'm Devadharshini Sivakumar! 
+# DEVADHARSHINI SIVAKUMAR
 
-## AI Developer | Engineering Student | Problem Solver
+### AI Developer | Machine Learning Engineer | Computer Science & Engineering Student
 
-I am an AI Developer and Computer Science Engineering student at **V.S.B Engineering College, Karur**, passionate about building impactful solutions using **Artificial Intelligence, Machine Learning, Computer Vision, and Web Technologies**.
+**Building intelligent systems and practical technology solutions through AI, Machine Learning, Computer Vision, and Software Development.**
 
-*  **Core Interests:** Artificial Intelligence, Smart Prediction Systems, Privacy-First Healthcare, and Gamified Education.
-*  **Founder of EthicaLearn** — An initiative focused on impactful and ethical learning.
-*  **Mission:** Building technology that creates meaningful impact.
-*  **Motto:** *Code. Learn. Impact.*
+Computer Science and Engineering student at **V.S.B. Engineering College, Karur**, focused on developing real-world applications that combine intelligent algorithms, scalable software, and user-centric design with an current CGPA of **8.77/10**.
 
----
+Founder of **EthicaLearn**, an initiative focused on ethical and impactful learning.
 
-##  Tech Stack
+**Technical Focus:** Artificial Intelligence | Machine Learning | Computer Vision | NLP | Predictive Analytics | Web Development
 
-### Programming Languages
-
-* Python
-* JavaScript
-* HTML
-* CSS
-
-### AI & Data Science
-
-* Machine Learning
-* Computer Vision
-* OpenCV
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-
-### Web Technologies
-
-* Flask
-* REST APIs
-* Responsive Web Development
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Google Colab
-* Firebase
+**Philosophy:** Code. Learn. Impact.
 
 ---
 
-##  Featured Projects
+## PROFESSIONAL OVERVIEW
 
-### AquaAlert / Aqua AI
-
-Offline-first hydration and health monitoring system featuring localized data storage, risk prediction, privacy-first healthcare support, multilingual capabilities, and gamified engagement features.
-
-### VisionPro AI
-
-Real-time AI application for face emotion detection, hand gesture recognition, body pose estimation, and object detection using Computer Vision and OpenCV.
-
-### Smart Student Performance Predictor
-
-Machine learning system designed to analyze academic data and predict student performance using predictive analytics.
-
-### Employee Attrition Prediction System
-
-AI-powered workforce analytics solution that predicts employee attrition and supports data-driven retention strategies.
-
-### Fake News Detection System
-
-NLP-based misinformation detection system using TF-IDF vectorization and machine learning classification models.
-
-### E-mail Automation
-
-Automation workflows for email communication developed using Python and JavaScript technologies.
+| Area | Expertise |
+|---|---|
+| Artificial Intelligence | AI Applications, Intelligent Systems, Predictive Modeling |
+| Machine Learning | Classification, Regression, Model Evaluation, Feature Engineering |
+| Computer Vision | OpenCV, Emotion Detection, Gesture Recognition, Object Detection |
+| Natural Language Processing | Text Processing, TF-IDF, Text Classification |
+| Data Science | Pandas, NumPy, Matplotlib, Data Analysis |
+| Software Development | Python, JavaScript, Flask, REST APIs |
+| Tools & Platforms | Git, GitHub, Firebase, VS Code, Google Colab |
 
 ---
 
-## 📈 GitHub Statistics
+## TECHNICAL SKILLS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deva-mk\&show_icons=true\&theme=tokyonight)
+**Programming Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deva-mk\&layout=compact\&theme=tokyonight)
+Python, JavaScript, Java, HTML, CSS
 
----
+**AI & Machine Learning**
 
-## Achievements
+Machine Learning, Deep Learning Fundamentals, Predictive Analytics, Computer Vision, Natural Language Processing, Scikit-learn, OpenCV
 
-* Microsoft Learn AI Certification
-* Google AI Agents Certification
-* Infosys Springboard Certifications
-* AI & Machine Learning Project Development
-* Hackathon Participation and Innovation Challenges
+**Data Science**
 
----
+Pandas, NumPy, Matplotlib, Jupyter Notebook, Data Preprocessing, Feature Engineering, Model Evaluation
 
-## Connect With Me
+**Web & Backend Development**
 
-* LinkedIn: Devadharshini Sivakumar
-* YouTube: Code-Trinity
-* GitHub: deva-mk
-* Email: [deva84862@gmail.com](mailto:deva84862@gmail.com)
+Flask, REST APIs, Responsive Web Development, Firebase, Frontend and Backend Integration
+
+**Developer Tools**
+
+Git, GitHub, Visual Studio Code, Google Colab, Postman
 
 ---
 
-## Quote
+## FEATURED PROJECTS
 
-*"Technology becomes meaningful when it creates impact in people's lives."*
+### 1. AquaAlert / Aqua AI
+**Offline-First Hydration and Health Monitoring System**
 
-If you like my work, feel free to explore my repositories and connect with me.
+Developed a privacy-focused health monitoring solution integrating intelligent risk prediction and personalized user engagement.
+
+- Offline-first architecture with localized data storage.
+- Predictive health risk analysis.
+- Privacy-focused data management.
+- Multilingual accessibility.
+- Gamification-based engagement.
+
+**Technologies:** Python, Machine Learning, Web Technologies, Local Storage
+
+### 2. VisionPro AI
+**Real-Time Computer Vision System**
+
+Developed an integrated computer vision application for real-time human activity and visual recognition.
+
+- Facial emotion detection.
+- Hand gesture recognition.
+- Human pose estimation.
+- Object detection.
+- Real-time image processing.
+
+**Technologies:** Python, OpenCV, Computer Vision, Machine Learning
+
+### 3. Smart Student Performance Predictor
+**Machine Learning | Educational Analytics**
+
+Built a predictive analytics system to identify academic performance patterns using student-related datasets.
+
+- Data preprocessing and feature engineering.
+- Machine learning model development.
+- Student performance prediction.
+- Model evaluation and performance analysis.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
+
+### 4. Employee Attrition Prediction System
+**Machine Learning | Workforce Analytics**
+
+Developed a classification system to predict employee attrition and support data-driven workforce decisions.
+
+- Employee data analysis.
+- Class imbalance handling using SMOTE.
+- XGBoost classification.
+- Model evaluation using accuracy, F1-score, and ROC-AUC.
+
+**Technologies:** Python, Pandas, Scikit-learn, XGBoost, SMOTE
+
+### 5. Fake News Detection System
+**Natural Language Processing | Text Classification**
+
+Developed an NLP-based system to classify potentially misleading news content using machine learning.
+
+- Text preprocessing and cleaning.
+- TF-IDF feature extraction.
+- Passive Aggressive classification.
+- Model performance evaluation.
+
+**Technologies:** Python, NLP, Scikit-learn, TF-IDF
+
+### 6. E-mail Automation
+**Software Automation | Application Development**
+
+Developed automation workflows to simplify repetitive email communication tasks.
+
+- Automated email workflows.
+- Reduced repetitive manual operations.
+- Integrated programming-based automation.
+
+**Technologies:** Python, JavaScript
+
+---
+
+## EXPERIENCE & TECHNICAL DEVELOPMENT
+
+**Cybernaut EdTech – AI/ML Internship**
+
+June 2026
+
+- Worked on machine learning and data science applications.
+- Developed student performance prediction, employee attrition prediction, and fake news detection projects.
+- Applied Python, Pandas, NumPy, Scikit-learn, NLP, and model evaluation techniques.
+
+**Infosys Springboard – Internship 6.0, Batch 11**
+
+Participated in the Infosys Springboard internship program and technical learning activities.
+
+---
+
+## ACHIEVEMENTS & CERTIFICATIONS
+
+- KANAL 2026 – Bug Hunters Champion, V.S.B. Engineering College.
+- Microsoft Learn – AI Certification.
+- Google – AI Agents Certification.
+- Infosys Springboard Certifications.
+- Infosys Springboard Internship 6.0 – Batch 11.
+- NPTEL Big Data Computing – Elite.
+
+---
+
+## GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deva-mk&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva-mk&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deva-mk&theme=default&hide_border=true" />
+</p>
+
+---
+
+## LEADERSHIP & INITIATIVES
+
+**Founder – EthicaLearn**
+
+An initiative focused on building ethical, accessible, and impactful learning experiences through technology.
+
+---
+
+## CONNECT
+
+- **GitHub:** https://github.com/deva-mk
+- **LinkedIn:** www.linkedin.com/in/devadharshinisivakumar
+- **YouTube:** Code-Trinity
+- **Email:** deva84862@gmail.com
+
+---
+
+**Building technology with intelligence, purpose, and impact.**
